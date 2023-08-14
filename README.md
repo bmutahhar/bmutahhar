@@ -1,5 +1,4 @@
 # 💫 About Me:
----
 👋 Hey! I am a COMSATS graduate 🎓 with a silver medal 🥈. Self-taught in JavaScript & TypeScript. For 3+ years, I've been coding with React.js, Next.js, and doing Python scripting 🐍.<br><br>🎨 I pride myself on crafting pixel-perfect UI/UX from Figma designs. Beyond the code, I value clear communication 🗣️ and effective teamwork 🤝.<br><br>🚀 Every line I write aims to be clean, scalable, and precise. Pushing the envelope in web dev, and always looking to lift others as I climb.<br><br>📩 Want to collaborate or chat about web trends? Reach me at mutahharbinmuzaffar@gmail.com or drop me a message. Always here for a tech talk! ✨
 
 ## 🌐 Socials:
@@ -22,8 +21,9 @@
 </div>
 
 <br>
+
 ## 💻 Tech Stack:
----
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 
@@ -82,17 +82,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bmutahhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bmutahhar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmutahhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
 
 <img src="https://raw.githubusercontent.com/bmutahhar/bmutahhar/output/snake.svg" alt="Snake animation" />
 
----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bmutahhar&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
