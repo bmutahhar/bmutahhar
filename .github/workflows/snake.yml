@@ -4,22 +4,20 @@ on:
   schedule: # execute every 12 hours
     - cron: "*/3 * * * *"
 
-  workflow_dispatch:
-    inputs:
-      branches:
-        description: "Branches to run on"
-        required: true
-        default: "main"
-
   push:
     branches:
       - main
+
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: main
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
