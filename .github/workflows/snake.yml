@@ -5,6 +5,11 @@ on:
     - cron: "* */12 * * *"
 
   workflow_dispatch:
+    inputs:
+      branches:
+        description: "Branches to run on"
+        required: true
+        default: "main"
 
   push:
     branches:
