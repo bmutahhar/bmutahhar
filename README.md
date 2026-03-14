@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I am a COMSATS graduate 🎓 with a silver medal 🥈. Self-taught in JavaScript & TypeScript. For 3+ years, I've been coding with React.js, Next.js, and doing Python scripting 🐍.<br><br>🎨 I pride myself on crafting pixel-perfect UI/UX from Figma designs. Beyond the code, I value clear communication 🗣️ and effective teamwork 🤝.<br><br>🚀 Every line I write aims to be clean, scalable, and precise. Pushing the envelope in web dev, and always looking to lift others as I climb.<br><br>📩 Want to collaborate or chat about web trends? Reach me at mutahharbinmuzaffar@gmail.com or drop me a message. Always here for a tech talk! ✨
+👋 Hey! I am a COMSATS graduate 🎓 with a silver medal 🥈. Self-taught in JavaScript & TypeScript. For 4+ years, I've been coding with React.js, Next.js, and doing Python scripting 🐍.<br><br>🎨 I pride myself on crafting pixel-perfect UI/UX from Figma designs. Beyond the code, I value clear communication 🗣️ and effective teamwork 🤝.<br><br>🚀 Every line I write aims to be clean, scalable, and precise. Pushing the envelope in web dev, and always looking to lift others as I climb.<br><br>📩 Want to collaborate or chat about web trends? Reach me at mutahharbinmuzaffar@gmail.com or drop me a message. Always here for a tech talk! ✨
 
 ## 🌐 Socials:
 <div align="left">
