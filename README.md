@@ -1,5 +1,16 @@
-# 💫 About Me:
-👋 Hey! I am a COMSATS graduate 🎓 with a silver medal 🥈. Self-taught in JavaScript & TypeScript. For 4+ years, I've been coding with React.js, Next.js, and doing Python scripting 🐍.<br><br>🎨 I pride myself on crafting pixel-perfect UI/UX from Figma designs. Beyond the code, I value clear communication 🗣️ and effective teamwork 🤝.<br><br>🚀 Every line I write aims to be clean, scalable, and precise. Pushing the envelope in web dev, and always looking to lift others as I climb.<br><br>📩 Want to collaborate or chat about web trends? Reach me at mutahharbinmuzaffar@gmail.com or drop me a message. Always here for a tech talk! ✨
+# About Me
+
+👋 I’m a software engineer with 5+ years of experience building web products with JavaScript, TypeScript, React, and Next.js.
+
+Most of my work sits at the intersection of frontend architecture, product delivery, and clean user experience. I’ve built production interfaces from Figma designs, worked on complex UI workflows, integrated APIs, improved performance, and collaborated closely with product, design, and backend teams.
+
+Recently, I worked as a founding engineer on [ImagineArt Workflows](https://www.imagine.art/enterprise/flow), a React Flow-based canvas for text, image, and video generation, helping take it from idea to MVP and supporting the team as it scaled.
+
+I also have full-stack experience with Node.js, NestJS, Firebase, Strapi, Docker, Kubernetes, and PostgreSQL-backed applications. I’m strongest when working on frontend-heavy products where UX, performance, and maintainable architecture all matter.
+
+Outside of work, I like exploring better ways to build, ship, and refine web products.
+
+📩 Reach me at: mutahharbinmuzaffar@gmail.com
 
 ## 🌐 Socials:
 <div align="left">
